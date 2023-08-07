@@ -1,2 +1,3 @@
-# lenovo
+# Lenovo
+
 A placeholder.
